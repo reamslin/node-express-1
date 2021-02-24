@@ -1,0 +1,16 @@
+{
+  "name": "express-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urls.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "line-reader": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
